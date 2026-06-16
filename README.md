@@ -1,9 +1,11 @@
 # 🧑🏻‍💻 Stéffano Ferreira
 
-**`Desenvolvedor FullStack | Administrador de Banco de Dados`**
+**`Software Development | Cybersecurity | Data & Risk Analysis`**
 
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full Stack e Banco de Dados.
-Cursando penúltimo período em ADS pela Anhembi Morumbi, Banco de Dados pela Universidade Celso Lisboa e tenho formação profissionalizante como Administrador de Banco de Dados.
+Graduando em Análise e Desenvolvimento de Sistemas e Banco de Dados.
+Possuo experiência profissional em processos administrativos e financeiros, combinada com estudos em desenvolvimento de software, análise de dados e cibersegurança.
+Atualmente desenvolvo projetos envolvendo aplicações web, bancos de dados, automação, inteligência de dados e boas práticas de segurança.
+Meu objetivo é atuar em ambientes onde tecnologia, análise e gestão de riscos se conectam para gerar valor e apoiar decisões.
 
 Gosto de aprender na prática e transformar teoria em soluções reais.
 
@@ -45,18 +47,19 @@ Gosto de aprender na prática e transformar teoria em soluções reais.
 
 ### 🤖 Linguagens e Tecnologias
 
+\
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML5"
+    title="HTML5" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="CSS3" 
+    title="CSS3"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -103,21 +106,68 @@ Gosto de aprender na prática e transformar teoria em soluções reais.
 />
 <img 
     align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="20px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/PNG/Power-BI.png" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -128,9 +178,32 @@ Gosto de aprender na prática e transformar teoria em soluções reais.
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Docker"
+    title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws-color.png" 
+/>
+
+
+
+
+
+
+
